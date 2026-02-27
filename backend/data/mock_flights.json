@@ -1,0 +1,64 @@
+{
+  "flights": [
+    {
+      "id": "FL001",
+      "airline": "Air India",
+      "from": "Delhi",
+      "to": "Mumbai",
+      "departure": "06:00",
+      "arrival": "08:30",
+      "duration": "2h 30m",
+      "price": 4500,
+      "class": "Economy",
+      "persona_match": ["budget", "balanced"]
+    },
+    {
+      "id": "FL002",
+      "airline": "IndiGo",
+      "from": "Delhi",
+      "to": "Mumbai",
+      "departure": "09:00",
+      "arrival": "11:30",
+      "duration": "2h 30m",
+      "price": 5200,
+      "class": "Economy",
+      "persona_match": ["budget", "balanced"]
+    },
+    {
+      "id": "FL003",
+      "airline": "Vistara",
+      "from": "Delhi",
+      "to": "Mumbai",
+      "departure": "14:00",
+      "arrival": "16:30",
+      "duration": "2h 30m",
+      "price": 8500,
+      "class": "Premium Economy",
+      "persona_match": ["balanced", "luxury"]
+    },
+    {
+      "id": "FL004",
+      "airline": "Air India",
+      "from": "Delhi",
+      "to": "Goa",
+      "departure": "07:30",
+      "arrival": "10:00",
+      "duration": "2h 30m",
+      "price": 6000,
+      "class": "Economy",
+      "persona_match": ["budget", "balanced"]
+    },
+    {
+      "id": "FL005",
+      "airline": "IndiGo",
+      "from": "Mumbai",
+      "to": "Bangalore",
+      "departure": "08:00",
+      "arrival": "09:30",
+      "duration": "1h 30m",
+      "price": 3500,
+      "class": "Economy",
+      "persona_match": ["budget", "balanced"]
+    }
+  ]
+}

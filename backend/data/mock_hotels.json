@@ -1,0 +1,73 @@
+{
+  "BOM": [
+    {
+      "id": "BOM001",
+      "name": "Budget Inn Mumbai",
+      "location": "Andheri",
+      "rating": 3.5,
+      "price_per_night": 1500,
+      "amenities": ["WiFi", "Breakfast", "AC"],
+      "persona_match": ["budget"]
+    },
+    {
+      "id": "BOM002",
+      "name": "Comfort Stay Mumbai",
+      "location": "Bandra",
+      "rating": 4.0,
+      "price_per_night": 3000,
+      "amenities": ["WiFi", "Breakfast", "Pool", "Gym"],
+      "persona_match": ["balanced"]
+    },
+    {
+      "id": "BOM003",
+      "name": "Luxury Palace Mumbai",
+      "location": "South Mumbai",
+      "rating": 5.0,
+      "price_per_night": 8000,
+      "amenities": ["WiFi", "Breakfast", "Pool", "Gym", "Spa", "Concierge"],
+      "persona_match": ["luxury"]
+    },
+    {
+      "id": "BOM004",
+      "name": "Sea View Residency",
+      "location": "Marine Drive",
+      "rating": 4.3,
+      "price_per_night": 4500,
+      "amenities": ["WiFi", "Sea View", "Breakfast", "Gym"],
+      "persona_match": ["balanced", "luxury"]
+    }
+  ],
+
+  "GOI": [
+    {
+      "id": "GOI001",
+      "name": "Beach Resort Goa",
+      "location": "Calangute",
+      "rating": 4.2,
+      "price_per_night": 4000,
+      "amenities": ["WiFi", "Beach Access", "Pool"],
+      "persona_match": ["balanced", "luxury"]
+    },
+    {
+      "id": "GOI002",
+      "name": "Budget Beach Goa",
+      "location": "Anjuna",
+      "rating": 3.8,
+      "price_per_night": 2000,
+      "amenities": ["WiFi", "Beach Access"],
+      "persona_match": ["budget"]
+    }
+  ],
+
+  "BLR": [
+    {
+      "id": "BLR001",
+      "name": "Tech Hub Hotel Bangalore",
+      "location": "Whitefield",
+      "rating": 4.1,
+      "price_per_night": 3500,
+      "amenities": ["WiFi", "Workspace", "Gym"],
+      "persona_match": ["balanced"]
+    }
+  ]
+}

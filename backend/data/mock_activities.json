@@ -1,0 +1,84 @@
+{
+  "activities": [
+    {
+      "id": "ACT001",
+      "name": "Gateway of India Tour",
+      "location": "Mumbai",
+      "duration": "2 hours",
+      "price": 500,
+      "time_of_day": "morning",
+      "category": "sightseeing",
+      "persona_match": ["budget", "balanced", "cultural"]
+    },
+    {
+      "id": "ACT002",
+      "name": "Marine Drive Walk",
+      "location": "Mumbai",
+      "duration": "1 hour",
+      "price": 0,
+      "time_of_day": "evening",
+      "category": "leisure",
+      "persona_match": ["budget", "balanced"]
+    },
+    {
+      "id": "ACT003",
+      "name": "Elephanta Caves Excursion",
+      "location": "Mumbai",
+      "duration": "4 hours",
+      "price": 1500,
+      "time_of_day": "morning",
+      "category": "cultural",
+      "persona_match": ["cultural", "balanced"]
+    },
+    {
+      "id": "ACT004",
+      "name": "Beach Water Sports",
+      "location": "Goa",
+      "duration": "3 hours",
+      "price": 2500,
+      "time_of_day": "afternoon",
+      "category": "adventure",
+      "persona_match": ["adventure", "balanced"]
+    },
+    {
+      "id": "ACT005",
+      "name": "Old Goa Churches Tour",
+      "location": "Goa",
+      "duration": "3 hours",
+      "price": 800,
+      "time_of_day": "morning",
+      "category": "cultural",
+      "persona_match": ["cultural", "balanced"]
+    },
+    {
+      "id": "ACT006",
+      "name": "Sunset Beach Party",
+      "location": "Goa",
+      "duration": "4 hours",
+      "price": 1200,
+      "time_of_day": "evening",
+      "category": "leisure",
+      "persona_match": ["balanced", "luxury"]
+    },
+    {
+      "id": "ACT007",
+      "name": "Lalbagh Botanical Garden",
+      "location": "Bangalore",
+      "duration": "2 hours",
+      "price": 200,
+      "time_of_day": "morning",
+      "category": "nature",
+      "persona_match": ["budget", "balanced"]
+    },
+    {
+      "id": "ACT008",
+      "name": "Bangalore Palace Tour",
+      "location": "Bangalore",
+      "duration": "2 hours",
+      "price": 600,
+      "time_of_day": "afternoon",
+      "category": "cultural",
+      "persona_match": ["cultural", "balanced"]
+    }
+  ]
+}
